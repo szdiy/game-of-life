@@ -1,2 +1,12 @@
-# game-of-life
-A device built in a hackathon@SZU which runs Game of Life 在深圳大学一场黑客马拉松上做的生命游戏装置
+## 简介
+
+SZDIY 成员在深圳大学一场黑客马拉松上做的生命游戏装置。
+
+## 硬件
+
+显示部分由 144 颗 WS2812B 串联组成。
+
+## TODO
+
+* 语音识别
+
